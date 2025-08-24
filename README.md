@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
+  
+  # Hello! I'm Juan Ramon Corpuz
+  
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Cloud%2FDevOps+Enthusiast;UI%2FUX+Designer;Front-end+Developer" alt="Typing SVG" />
+</div>
+<div align="center">
+  <h3> I'm a Computer Science graduate at Polytechnic University of the Philippines - Sta. Mesa</h3>
+</div>
+<div align="center">
 
-<!--
-**Ramondroid/Ramondroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+</div>
+<div align="center">
 
-Here are some ideas to get you started:
+### Languages & Frameworks
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,nextjs,flask" />
+</div>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cloud & DevOps
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</div>
+<div align="center">
+
+### Design & Styling
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,photoshop" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</div>
+<div align="center">
+
+### Tools & Databases
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,mysql" />
+</div>
+
+<div align="center">
+  
+## Let's Connect
+
+</div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramonjuan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanramoncorpuz@gmail.com)
+</div>
+<div align="center">
+
+  ### "Make it exist first, you can make it good later"
+
+</div>
