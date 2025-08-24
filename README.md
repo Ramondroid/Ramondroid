@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Cloud%2FDevOps+Enthusiast;UI%2FUX+Designer;Front-end+Developer" alt="Typing SVG" />
 </div>
 <div align="center">
-  <h3> I'm a Computer Science graduate at Polytechnic University of the Philippines - Sta. Mesa</h3>
+  <h3> I'm a Computer Science Graduate at Polytechnic University of the Philippines - Sta. Mesa</h3>
 </div>
 <div align="center">
 
