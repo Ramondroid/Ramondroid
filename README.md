@@ -25,7 +25,7 @@
 ### Cloud & DevOps
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform, gitlab" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,gitlab" />
 </div>
 <div align="center">
 
